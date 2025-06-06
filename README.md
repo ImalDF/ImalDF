@@ -96,16 +96,9 @@
 </table>
 <br>
 
-<div align="center">
-  </div>
-
-<div align="left">
-  <h2>📰 Latest Blog Posts</h2>
-  </div>
-
-<h2 align="center">Connect with Me</h2>
+<h2 align="left">Connect with Me</h2>
 <p align="center">
   <a href="https://instagram.com/imal_df" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imal_df" height="30" width="40" />
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imal_df" height="30" width="40" />
   </a>
   </p>

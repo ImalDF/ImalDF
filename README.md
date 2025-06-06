@@ -1,7 +1,8 @@
-
-<h1 align="center">Hello World! I'm Ijmal Dzul Fikri 👋</h1>
-<h3 align="center">A Junior Web Developer from Indonesia 🔥</h3>
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Ijmal+Dzul+Fikri;A+Passionate+Web+Developer;I+Build+Things+for+the+Web" alt="Typing SVG" />
+  </a>
+</div>
 <br>
 
 <div align="left">
@@ -11,94 +12,68 @@
     🌱 &nbsp; I'm currently learning and deepening my knowledge in the <strong>Next.js Framework.</strong> <br>
     🤝 &nbsp; I'm looking to collaborate on <strong>simple open-source projects based on React/Next.js.</strong> <br>
     💬 &nbsp; Ask me about <strong>React.js, Vue.js, and Web Development fundamentals.</strong> <br>
-    <br>
   </p>
 </div>
 
-<h2 align="center">Languages and Tools</h2>
-<table width="100%">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
-      <br><font color="#E34F26"><b>HTML5</b></font>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
-      <br><font color="#1572B6"><b>CSS3</b></font>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      <br><font color="#F7DF1E"><b>JavaScript</b></font>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-      <br><font color="#3178C6"><b>TypeScript</b></font>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-      <br><font color="#777BB4"><b>PHP</b></font>
-    </td>
-     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-      <br><font color="#f89820"><b>Java</b></font>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
-      <br><font color="#339933"><b>Node.js</b></font>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" />
-      <br><font color="#000000"><b>Express</b></font>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
-      <br><font color="#61DAFB"><b>React</b></font>
-    </td>
-     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="Vue.js" />
-      <br><font color="#4FC08D"><b>Vue.js</b></font>
-    </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter" />
-      <br><font color="#02569B"><b>Flutter</b></font>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" />
-      <br><font color="#7952B3"><b>Bootstrap</b></font>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
-      <br><font color="#06B6D4"><b>Tailwind</b></font>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-      <br><font color="#4479A1"><b>MySQL</b></font>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
-      <br><font color="#47A248"><b>MongoDB</b></font>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-      <br><font color="#512BD4"><b>C#</b></font>
-    </td>
-    <td align="center" width="120">
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-      <br><font color="#61DAFB"><b>React Native</b></font>
-    </td>
-    <td align="center" width="120">
-      </td>
-  </tr>
-</table>
 <br>
 
-<h2 align="left">Connect with Me</h2>
+<br>
+
+<h2 align="center">🛠️ Skills</h2>
 <p align="center">
-  <a href="https://instagram.com/imal_df" target="blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imal_df" height="30" width="40" />
+  <span style="background-color:#E34F26; color:white; font-weight:bold; padding:4px 8px; border-radius: 5px; margin: 4px;">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="18" width="18" style="vertical-align: middle; margin-right: 5px;" /> HTML
+  </span>
+  <span style="background-color:#1572B6; color:white; font-weight:bold; padding:4px 8px; border-radius: 5px; margin: 4px;">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="18" width="18" style="vertical-align: middle; margin-right: 5px;" /> CSS
+  </span>
+  <span style="background-color:#F7DF1E; color:black; font-weight:bold; padding:4px 8px; border-radius: 5px; margin: 4px;">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="18" width="18" style="vertical-align: middle; margin-right: 5px;" /> JavaScript
+  </span>
+  <span style="background-color:#3178C6; color:white; font-weight:bold; padding:4px 8px; border-radius: 5px; margin: 4px;">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="18" width="18" style="vertical-align: middle; margin-right: 5px;" /> TypeScript
+  </span>
+  <span style="background-color:#777BB4; color:white; font-weight:bold; padding:4px 8px; border-radius: 5px; margin: 4px;">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="18" width="18" style="vertical-align: middle; margin-right: 5px;" /> PHP
+  </span>
+  <span style="background-color:#b07219; color:white; font-weight:bold; padding:4px 8px; border-radius: 5px; margin: 4px;">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="18" width="18" style="vertical-align: middle; margin-right: 5px;" /> Java
+  </span>
+  <span style="background-color:#339933; color:white; font-weight:bold; padding:4px 8px; border-radius: 5px; margin: 4px;">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="18" width="18" style="vertical-align: middle; margin-right: 5px;" /> Node.js
+  </span>
+  <span style="background-color:#61DAFB; color:black; font-weight:bold; padding:4px 8px; border-radius: 5px; margin: 4px;">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="18" width="18" style="vertical-align: middle; margin-right: 5px;" /> React
+  </span>
+  <span style="background-color:#4FC08D; color:white; font-weight:bold; padding:4px 8px; border-radius: 5px; margin: 4px;">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="18" width="18" style="vertical-align: middle; margin-right: 5px;" /> Vue.js
+  </span>
+  <span style="background-color:#7952B3; color:white; font-weight:bold; padding:4px 8px; border-radius: 5px; margin: 4px;">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="18" width="18" style="vertical-align: middle; margin-right: 5px;" /> Bootstrap
+  </span>
+  <span style="background-color:#06B6D4; color:white; font-weight:bold; padding:4px 8px; border-radius: 5px; margin: 4px;">
+    <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="18" width="18" style="vertical-align: middle; margin-right: 5px;" /> Tailwind
+  </span>
+  <span style="background-color:#00758F; color:white; font-weight:bold; padding:4px 8px; border-radius: 5px; margin: 4px;">
+    <img align="center" src="https://www.mysql.com/common/themes/sakila/img/favicon.ico" alt="MySQL" height="18" width="18" style="vertical-align: middle; margin-right: 5px;" /> MySQL
+  </span>
+  <span style="background-color:#239120; color:white; font-weight:bold; padding:4px 8px; border-radius: 5px; margin: 4px;">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="18" width="18" style="vertical-align: middle; margin-right: 5px;" /> C#
+  </span>
+  <span style="background-color:#61DAFB; color:black; font-weight:bold; padding:4px 8px; border-radius: 5px; margin: 4px;">
+    <img align="center" src="https://reactnative.dev/img/favicon.ico" alt="React Native" height="18" width="18" style="vertical-align: middle; margin-right: 5px;" /> React Native
+  </span>
+</p>
+<br>
+
+<h2 align="center">🔗 Connect with Me</h2>
+<p align="center">
+  <a href="https://instagram.com/imal_df" target="_blank" style="background-color:#E4405F; color:white; font-weight:bold; padding:8px 15px; border-radius: 5px; text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="20" style="vertical-align: middle; margin-right: 5px;" /> Instagram
   </a>
-  </p>
+  &nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" style="background-color:#0A66C2; color:white; font-weight:bold; padding:8px 15px; border-radius: 5px; text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" style="vertical-align: middle; margin-right: 5px;" /> LinkedIn
+  </a>
+</p>
+<br>
